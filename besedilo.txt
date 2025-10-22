@@ -1,0 +1,3 @@
+To prva vaja za računalniški praktikum
+učimo se VSCode 
+in rabim napisat tri vrstice besedila
