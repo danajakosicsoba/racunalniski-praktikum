@@ -1,3 +1,4 @@
 To prva vaja za računalniški praktikum
 učimo se VSCode 
 in rabim napisat tri vrstice besedila
+danes spreminjam repozitorij zaradi napake in preverjam če mi spremembe shranjuje v pravi repozatorij
